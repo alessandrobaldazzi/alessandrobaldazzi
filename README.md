@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+    Hi, I'm Alessandro Baldazzi! 
+</h1>
 
-<!--
-**alessandrobaldazzi/alessandrobaldazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/alessandrobaldazzi">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alessandrobaldazzi&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrobaldazzi&exclude_repo=os161-c2&theme=dark" />
+  </a>
+  <br/>
+  <br/>
+  <img alt="Leetcode Stats" src="https://leetcode.card.workers.dev/Baldale98?theme=dark&font=source_code_pro&extension=null"/>
+</p>
