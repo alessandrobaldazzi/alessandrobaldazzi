@@ -141,5 +141,7 @@
   </a>
   <br/>
   <br/>
-  <img alt="Leetcode Stats" src="https://leetcode.card.workers.dev/Baldale98?theme=dark&font=source_code_pro&extension=null"/>
+  <a href="https://leetcode.com/Baldale98">
+  <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/Baldale98?ext=activity"/>
+  </a>
 </p>
