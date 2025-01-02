@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming Languages</h4>
+<h4 align="left">Programming and Markup Languages</h4>
 <p align="left">
   <a href="https://www.iso.org/standard/82075.html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" width="40" alt="C icon"/>
@@ -79,22 +79,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height="40" width="40" alt="YAML icon"/>
   </a>
 </p>
-<h4 align="left">Libraries and Frameworks</h4>
+<h4 align="left">Web Development Frameworks and Tools</h4>
 <p align="left">
   <a href="https://ant.design/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" height="40" width="40" alt="ANT icon"/>
   </a>
-  <a href="https://kafka.apache.org/documentation/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="40" width="40" alt="Apache Kafka icon"/>
-  </a>
   <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap icon"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/framework/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="40" width="40" alt=".NET icon"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt="ASP.NET Core icon"/>
   </a>
   <a href="https://expressjs.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" width="40" alt="ExpressJS icon"/>
@@ -105,23 +96,53 @@
   <a href="https://api.jquery.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="40" width="40" alt="JQuery icon"/>
   </a>
-  <a href="https://junit.org/junit5/docs/current/user-guide/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" width="40" alt="JUnit icon"/>
-  </a>
   <a href="https://lodash.com/docs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lodash/lodash-original.svg" height="40" width="40" alt="Lodash icon"/>
   </a>
-  <a href="https://numpy.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" width="40" alt="Numpy icon"/>
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="NodeJS icon"/>
   </a>
-  <a href="https://opencv.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" width="40" alt="OpenCV icon"/>
+  <a href="https://www.npmjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="NPM icon"/>
+  </a>
+  <a href="https://pnpm.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" width="40" alt="PNPM icon"/>
   </a>
   <a href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" alt="React icon"/>
   </a>
+  <a href="https://reactrouter.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="40" width="40" alt="React Router icon"/>
+  </a>
   <a href="https://redux.js.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="40" width="40" alt="Redux icon"/>
+  </a>
+  <a href="https://vite.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" width="40" alt="ViteJS icon"/>
+  </a>
+</p>
+<h4 align="left">Other Libraries and Frameworks</h4>
+<p align="left">
+  <a href="https://kafka.apache.org/documentation/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="40" width="40" alt="Apache Kafka icon"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/framework/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="40" width="40" alt=".NET icon"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt="ASP.NET Core icon"/>
+  </a>
+  <a href="https://junit.org/junit5/docs/current/user-guide/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" width="40" alt="JUnit icon"/>
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" width="40" alt="Numpy icon"/>
+  </a>
+  <a href="https://www.openapis.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="40" width="40" alt="OpenAPI icon"/>
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" width="40" alt="OpenCV icon"/>
   </a>
   <a href="https://docs.spring.io/spring-framework/reference/index.html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="40" alt="Spring icon"/>
@@ -129,8 +150,61 @@
   <a href="https://swagger.io/docs/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" width="40" alt="Swagger icon"/>
   </a>
-  <a href="https://vite.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" width="40" alt="ViteJS icon"/>
+</p>
+
+<h4 align="left">DevOps</h4>
+<p>
+  <a href="https://docs.aws.amazon.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" alt="AWS icon"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" width="40" alt="AzureDevOps icon"/>
+  </a>
+  <a href="https://cmake.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" height="40" width="40" alt="CMake icon"/>
+  </a>
+  <a href="https://docs.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker icon"/>
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git icon"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" alt="GitHub icon"/>
+  </a>
+  <a href="https://gitlab.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" width="40" alt="GitLab icon"/>
+  </a>
+  <a href="https://cloud.google.com/docs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="Google Cloud icon"/>
+  </a>
+  <a href="https://www.sourcetreeapp.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" height="40" width="40" alt="SourceTree icon"/>
+  </a>
+</p>
+
+<h4 align="left">Databases</h4>
+<p>
+  <a href="https://docs.aws.amazon.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" alt="AWS icon"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" width="40" alt="AzureDevOps icon"/>
+  </a>
+  <a href="https://docs.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker icon"/>
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git icon"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" alt="GitHub icon"/>
+  </a>
+  <a href="https://gitlab.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" width="40" alt="GitLab icon"/>
+  </a>
+  <a href="https://cloud.google.com/docs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="Google Cloud icon"/>
   </a>
 </p>
 
