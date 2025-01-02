@@ -30,6 +30,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming and Markup Languages</h4>
 <p align="left">
+  <a href="https://www.gnu.org/software/bash/manual/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="Bash icon"/>
+  </a>
   <a href="https://www.iso.org/standard/82075.html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" width="40" alt="C icon"/>
   </a>
@@ -178,6 +181,12 @@
   <a href="https://cloud.google.com/docs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="Google Cloud icon"/>
   </a>
+  <a href="https://gradle.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="40" width="40" alt="Gradle icon"/>
+  </a>
+  <a href="https://maven.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" width="40" alt="Maven icon"/>
+  </a>
   <a href="https://www.sourcetreeapp.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" height="40" width="40" alt="SourceTree icon"/>
   </a>
@@ -185,26 +194,60 @@
 
 <h4 align="left">Databases</h4>
 <p>
-  <a href="https://docs.aws.amazon.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" alt="AWS icon"/>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL icon"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" width="40" alt="AzureDevOps icon"/>
+  <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="40" alt="MSSQL icon"/>
   </a>
-  <a href="https://docs.docker.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker icon"/>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL icon"/>
   </a>
-  <a href="https://git-scm.com/doc">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git icon"/>
+  <a href="https://www.sqlite.org/docs.html">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" width="40" alt="SQLite icon"/>
   </a>
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" width="40" alt="GitHub icon"/>
+</p>
+
+<h4 align="left">Everything else (Graphic, Game Development, Data Analysis, Project Management, ecc...)</h4>
+<p>
+  <a href="https://spark.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" width="40" alt="Apache Spark icon"/>
   </a>
-  <a href="https://gitlab.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" width="40" alt="GitLab icon"/>
+  <a href="https://www.blender.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" width="40" alt="Blender icon"/>
   </a>
-  <a href="https://cloud.google.com/docs">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="Google Cloud icon"/>
+  <a href="https://www.gimp.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" height="40" width="40" alt="Gimp icon"/>
+  </a>
+  <a href="https://godotengine.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" width="40" alt="Godot icon"/>
+  </a>
+  <a href="https://hadoop.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" height="40" width="40" alt="Hadoop icon"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="40" width="40" alt="Matlab icon"/>
+  </a>
+  <a href="https://nginx.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" width="40" alt="Nginx icon"/>
+  </a>
+  <a href="https://www.notion.so/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="40" alt="Notion icon"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="40" alt="Postman icon"/>
+  </a>
+  <a href="https://www.putty.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" height="40" width="40" alt="Putty icon"/>
+  </a>
+  <a href="https://tomcat.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" height="40" width="40" alt="Tomcat icon"/>
+  </a>
+  <a href="https://trello.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" width="40" alt="Trello icon"/>
+  </a>
+  <a href="https://www.uml.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40" width="40" alt="SourceTree icon"/>
   </a>
 </p>
 
