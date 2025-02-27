@@ -13,6 +13,10 @@
   <li>🎓 Master's in Computer Engineering from Polytechnic of Torino (Software Engineering minor)</li>
   <li>🎓 Bachelor's in Computer Engineering from University of Bologna</li>
 </ul>
+<h3>Certifications:</h3>
+<ul>
+  <li><a href="https://www.credly.com/badges/27da995c-14bb-4ba8-a00b-568fdd79f069/public_url" target="blank">🏅 Google Cloud Associate Engineer</a></li>
+</ul>
 <h3>Highlights</h3>
 <ul>
 <li>🚀 Delivered custom components for enterprise solutions, with a focus on performance, security, and maintainability.</li>
@@ -54,32 +58,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="JS icon"/>
   </a>
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" width="40" alt="JSON icon"/>
-  </a>
-  <a href="https://docs.jupyter.org/en/latest/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter icon"/>
-  </a>
   <a href="https://kotlinlang.org/docs/home.html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" width="40" alt="Kotlin icon"/>
-  </a>
-  <a href="https://www.latex-project.org/help/documentation/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="40" width="40" alt="LaTeX icon"/>
-  </a>
-  <a href="https://www.markdownguide.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="40" width="40" alt="Markdown icon"/>
   </a>
   <a href="https://docs.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="Python icon"/>
   </a>
   <a href="https://www.typescriptlang.org/docs/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="TS icon"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="40" width="40" alt="XML icon"/>
-  </a>
-  <a href="https://yaml.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height="40" width="40" alt="YAML icon"/>
   </a>
 </p>
 <h4 align="left">Web Development Frameworks and Tools</h4>
@@ -160,12 +146,6 @@
   <a href="https://docs.aws.amazon.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" alt="AWS icon"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" width="40" alt="AzureDevOps icon"/>
-  </a>
-  <a href="https://cmake.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" height="40" width="40" alt="CMake icon"/>
-  </a>
   <a href="https://docs.docker.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker icon"/>
   </a>
@@ -189,6 +169,9 @@
   </a>
   <a href="https://www.sourcetreeapp.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" height="40" width="40" alt="SourceTree icon"/>
+  </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" width="40" alt="Terraform icon"/>
   </a>
 </p>
 
@@ -246,9 +229,6 @@
   <a href="https://trello.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" width="40" alt="Trello icon"/>
   </a>
-  <a href="https://www.uml.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40" width="40" alt="SourceTree icon"/>
-  </a>
 </p>
 
 <p align="center">
@@ -259,6 +239,6 @@
   <br/>
   <br/>
   <a href="https://leetcode.com/Baldale98">
-  <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/Baldale98?ext=activity"/>
+  <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/Baldale98"/>
   </a>
 </p>
